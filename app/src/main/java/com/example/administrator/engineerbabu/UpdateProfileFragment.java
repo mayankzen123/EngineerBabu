@@ -161,6 +161,7 @@ public class UpdateProfileFragment extends Fragment implements View.OnClickListe
                 }
             }
 
+
             @Override
             public void onCodeSent(String verificationId,
                                    PhoneAuthProvider.ForceResendingToken token) {
