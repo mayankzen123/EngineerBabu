@@ -1,0 +1,4 @@
+#Sat Sep 23 22:28:03 IST 2017
+base.0=E\:\\CashCaro\\Bottom\\EngineerBabu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\CashCaro\\Bottom\\EngineerBabu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

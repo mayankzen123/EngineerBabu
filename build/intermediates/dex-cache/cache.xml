@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\85d50eba8081f4285cb794bdd32dc7e238a60889\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_3230f89a949a2607dbd18f244fee5405236051ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3d0ce92741c8ed12175c4d2fcdf0b75faf9afaf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_7a4d25242c9566759348cbdf22ecb60b419221ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8ed103348c05c4ad2a49f99e3a2d29ddfb7048c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_8904f7442cb566b0d6abb5cf2bddd9420ff81cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c38d0bd1092e5b7195a099ed33484e20eccd9ff8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_f2833a41e69884fd33e16fa8572359f0f222d09f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.14.3\71218d7dd9435e8b43e5ccf117bec37cb78fa2eb\twitter-text-1.14.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="71218d7dd9435e8b43e5ccf117bec37cb78fa2eb">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\twitter-text-1.14.3_92d3923f1aa04140f78fe0ece3a8fcaf75036f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a4c2d733fe52343d4f174c800e9312ec7f88b7cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_06f15bd3739001129ab6dc4d4174b7ee9f1c2f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6427eec0eceff32c3dcff69304f2dd61120ab3ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_e7525960896c176fda7b8f9002544b1990a73762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\913573d01062e115caf799fae54317a4ec99d4f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_3cf36fa774ae7e1e5764d7b08e53e4ef9d661ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\32610f6f980c52bb3e52b855382fd00333429b59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_188698eec4dcd3305844b337d21167ffbf111a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e4623a990832252c9e4fd689dfbca304c93ee8ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9df547a8c3f971d9e8ed570b5e36c44a9dc7632f">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_d14e1dbcd93136fdff9e98ff7d119237aab871cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\67da08e570098a3c09511be16bbd2df0ca02775e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_2f8d713f107859c269546ae9d370d9377b862e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\core-3.3.0_e4230aaa92ad3b83a7280de82bf4c7ebfefd4ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\362d4772a583366db83ed2c7166ba059135dd1ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e09663005d70dcedff0bb77211b9ac52d8b69421">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_fb8816d87f79f123085575347839a25f5d030f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bacd5ae8f58049e2e2723f8d5289e19b54038772\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_5eda0fb4ff39970988c50577e55d18d037236e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bd56bf35dd503eb1f0a23e53151ecd567ffb4dda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6525f06e39d6c9e88d5b86ce6fe0351bc674a80">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_22b0c44e2464d58667ef3b27c113773172aeda1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c43c6dd2c7bd667f6d7fccb265dc79148a1b62f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_1ccffc4ccbdf3e0256e0b7e91a8e6ad0ae698173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\1220127e59556c69c9e9fe59b674347b10adc2a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_c5e2bc528aa833427faed98038986ec94cfb67eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_2428dbd5eabf65ae69bc01abd6e4b72d08e545aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_b26dae2859a7956e2b83831c59f43cc7ccec1eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6688c17843a763d70d2e1e7c93d7dcf822974a10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_b7ac2bb9444a5cfa6402e50970d71d533d6d6cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7259f3a326d7e4842f6a5e1912c0e793a7510e3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="93dbcb6695ede7eb2ac82aeb2e84eb0e8c8309d4">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_aa5f6322f7b1db0aa38ea121d33fd45232a154ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\okhttp-3.4.2_ae3cdcc1e7c2a4a303ea293d52806fed01d405bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8c9b193433fa783c51c27c9ff967094614c90056\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="213a75f93fa2961a4c69566ef3c9a365c70a8693">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_f96e19e5a06cc3efce9bf19b65e04c7657df4287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\dfdc68f3179b6cecced7b4543f145aebec5bd63e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\CashCaro\Bottom\EngineerBabu\app\build\intermediates\pre-dexed\debug\classes_1f38418b02c4a0d7834263bafff34e78f67ffbba.jar" />
+    </item>
+
+</items>
